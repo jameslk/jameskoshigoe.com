@@ -1,0 +1,14 @@
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/features/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.title %}
+    <span class="feature-title">{{ page.image.title }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
