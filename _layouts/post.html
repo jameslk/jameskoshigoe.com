@@ -21,7 +21,13 @@
   </div>
   <article>
     <div class="headline-wrap">
-      <p class="byline"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} - <strong>Modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></strong>{% endif %}</p>
+      <div class="byline">
+        <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+        {% if page.modified %}
+          - <strong>Modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></strong>
+        {% endif %}
+      </div>
+
       {% if page.link %}
         <h1><a href="{{ page.link }}">{{ page.title }}</a></h1>
       {% else %}
@@ -44,15 +50,18 @@
 </div><!-- /#main -->
 
 <div class="footer-wrap">
-  <div class="related-articles">
-  <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/posts/">View all posts</a>)</small></h4>
-    <ul>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-    {% endfor %}
-    </ul>
-    <hr />
-  </div><!-- /.related-articles -->
+  {% if site.related_posts.count > 0 %}
+    <div class="related-articles">
+      <h4>You might also enjoy <small class="pull-right">(<a href="{{ site.url }}/archive/">View all posts</a>)</small></h4>
+      <ul>
+      {% for post in site.related_posts limit:3 %}
+        <li><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+      {% endfor %}
+      </ul>
+      <hr />
+    </div><!-- /.related-articles -->
+  {% endif %}
+  
   <footer>
     {% include _footer.html %}
   </footer>

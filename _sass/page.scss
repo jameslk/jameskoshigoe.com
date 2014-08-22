@@ -272,6 +272,9 @@ $button-size: 1.5rem;
 	padding: 0;
 	margin: 1rem 0;
 }
+article p {
+	line-height: 2rem;
+}
 .article-author-side,
 .article-author-bottom {
 	h3 {
@@ -318,7 +321,7 @@ $button-size: 1.5rem;
 		p,
 		.author-social {
 			display: block;
-			max-width: 125px;
+			max-width: 175px;
 		}
 		h3 {
 			margin-top: 10px;
@@ -368,7 +371,7 @@ $button-size: 1.5rem;
 		}
 	}
 }
-.article-wrap {
+article {
 	// Dotted line underlines for links
 	p > a,
 	li > a {
