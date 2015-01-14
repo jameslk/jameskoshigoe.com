@@ -22,5 +22,5 @@ If you would like to get in touch, feel free to contact me:<br />
 * Resume: [PDF download](/james-koshigoe-resume.pdf)
 * LinkedIn: [James Koshigoe](https://www.linkedin.com/in/jameskoshigoe)
 * Portfolio: [Github code samples](https://github.com/jameslk/portfolio)
-* [My photography](http://jkosart.tumblr.com)
+* [My photography](https://500px.com/jameskoshigoe)
 
