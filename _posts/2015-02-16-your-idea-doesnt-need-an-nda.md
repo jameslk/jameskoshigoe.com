@@ -22,15 +22,15 @@ application upon. To them, the more important factors are your team, your team, 
 your idea. Your team's knowledge of the industry, capabilities to deliver and connectedness FAR outweighs the
 importance of your idea. Yes, the idea is nice, but anyone can have an idea. What matters more is how it's executed.
 
-### But..but if you don't sign my NDA, you'll just Zuckerberge me!
+### But..but if you don't sign my NDA, you'll just Zuckerberg me!
 
-Remember the part in The Social Network where Mark Zuckerberge (accursedly) stole the Winklevoss twins' idea for
+Remember the part in The Social Network where Mark Zuckerberg (accursedly) stole the Winklevoss twins' idea for
 HarvardConnection? Mark heard their crazy cool idea and then founded Facebook instead. Now after hearing this
 harrowing story, you've decided to take precautions so you don't end up like those multi-millionaire Winklevii suckers.
-Ain't nobody is going to Zuckerberge you! Everyone from here on out signs an NDA in blood before they can even hear your
+Ain't nobody is going to Zuckerberg you! Everyone from here on out signs an NDA in blood before they can even hear your
 elevator pitch.
 
-The reason why Mark Zuckerberge is the multi-billionaire he is today is because he was able to execute where everyone
+The reason why Mark Zuckerberg is the multi-billionaire he is today is because he was able to execute where everyone
 else failed. Sure, the idea of exclusivity helped Facebook take off, but that wasn't the *primary* reason. He was just a
 much more capable person to make it happen.
 
@@ -60,7 +60,7 @@ most important asset you have: your team.
 So if you know your industry well and you know you might be pivoting anyway, is it really necessary that I put my
 signature on a piece of paper just so you can tell me your idea already? How many individuals must you have go through
 this song and dance before you realize that you're turning people away that could otherwise be very beneficial to your
-endeavors? Think about this next time you fret about being Zuckerberge'd.
+endeavors? Think about this next time you fret about being Zuckerberg'd.
 
 
 
