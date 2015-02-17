@@ -46,9 +46,9 @@ connections you have to build your idea on their own.
 
 After you've finally built your product, launched it into the stratosphere with press coverage up the wazoo, you might
 find that nobody actually cares. If you're not an expert at the problem domain, expect this to be more likely. You see,
-the reason why tech startups are so fun is because you don't need to drop hundreds of thousands to build your business.
-The traditional business route starts with market research and a lengthy business plan to apply for a small business
-loan. This isn't necessary with tech startups because the idea IS the market research. You build a quick Internet
+the reason why tech startups are so fun is because you don't need to drop hundreds of thousands of dollars to build your
+business. The traditional business route starts with market research and a lengthy business plan to apply for a small
+business loan. This isn't necessary with tech startups because the idea IS the market research. You build a quick Internet
 property and see what happens (aka your minimal viable product or MVP). Hell, some even opt to create "launch pages"
 with merely an email subscription just to test how many people will sign up to get some verification of the idea
 before building anything at all.
