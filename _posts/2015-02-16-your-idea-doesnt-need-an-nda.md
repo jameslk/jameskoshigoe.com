@@ -8,7 +8,7 @@ comments: true
 As someone who frequently works with startups, I often come across NDA paperwork (i.e. Non-Disclosure Agreements). These
 generally serve various purposes to protect intellectual property and to prevent competition. Although I do see a need
 for NDAs, I won't sign every one that comes my way. You see, every time I write my signature on a piece of paper, I
-arrive closer to the singularity event of being sued in the future. For me, its a feeling akin to watching
+arrive closer to the prospects of being sued for something. For me, its a feeling akin to watching
 the Doomsday Clock tick ever closer to midnight. I like to limit the probability of such things occurring so I avoid
 signing documents such as NDAs when the risks outweigh the benefits.
 
