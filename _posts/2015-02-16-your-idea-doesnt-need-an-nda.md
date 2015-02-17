@@ -27,7 +27,7 @@ importance of your idea. Yes, the idea is nice, but anyone can have an idea. Wha
 Remember the part in The Social Network where Mark Zuckerberg (accursedly) stole the Winklevoss twins' idea for
 HarvardConnection? Mark heard their crazy cool idea and then founded Facebook instead. Now after hearing this
 harrowing story, you've decided to take precautions so you don't end up like those multi-millionaire Winklevii suckers.
-Ain't nobody is going to Zuckerberg you! Everyone from here on out signs an NDA in blood before they can even hear your
+Ain't nobody going to Zuckerberg you! Everyone from here on out signs an NDA in blood before they can even hear your
 elevator pitch.
 
 The reason why Mark Zuckerberg is the multi-billionaire he is today is because he was able to execute where everyone
