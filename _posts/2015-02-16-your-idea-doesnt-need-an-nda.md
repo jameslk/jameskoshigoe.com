@@ -63,6 +63,12 @@ this song and dance before you realize that you're turning people away that coul
 endeavors? Think about this next time you fret about being Zuckerberg'd.
 
 
+### Further reading:
+
+* [*Why most VCs don't sign NDAs, Brad Feld*](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html)
+* [*How to start a startup, Paul Graham*](http://www.paulgraham.com/start.html)
+* [*Y-Combinator FAQ*](https://www.ycombinator.com/faq/#q6)
+* [*TechStars FAQ (scroll half-way down the page)*](http://www.techstars.com/program/faqs/)
 
 
 
