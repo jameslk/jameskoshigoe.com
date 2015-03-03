@@ -67,7 +67,7 @@ foreach ($p['Reservation'] as $r) {
 What the hell is going on? This code has been so poorly written, compiling it and then disassembling
 it into some assembly language would make it more readable. But hey, at least there's comments...
 
-#### Exhibit C: A stale comment
+#### Exhibit B: A stale comment
 
 {% highlight javascript %}
 // add the time to each element
@@ -86,7 +86,7 @@ for (i = 0; i < stateProps.length; ++i) {
 Oops looks like there's a little more going on here than just adding on a time value to each element of this array.
 This is a case of hit-and-run. Another developer quickly hacked in some extra code and left the comment as is.
 
-#### Exhibit D: A comment that lies
+#### Exhibit C: A comment that lies
 
 {% highlight ruby %}
 # Now aggregate total prices of all books
@@ -102,7 +102,7 @@ end
 Developers are fickle. Looks like this developer changed their mind later on and decided to only total up the first
 few books in this array. Unfortunately their comment says otherwise.
 
-#### Exhibit E: A comment that threatens
+#### Exhibit D: A comment that threatens
 
 {% highlight javascript %}
 // DON'T TOUCH THIS! DRAGONS BE HERE!
