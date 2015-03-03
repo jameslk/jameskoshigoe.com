@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your idea doesn't need an NDA
-tags: [startups, business, legal]
+tags: [startups, business, legal, opinion]
 comments: true
 ---
 
