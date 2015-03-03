@@ -113,7 +113,6 @@ and unexpected bad things could happen. Unless you have a thing for masochism--y
 best to heed to the warning of the author and leave this code alone. Seriously, this code is one of those gems
 that is so poorly written, any changes will require years of regression testing. Just leave it alone.
 
-
 ### Writing self-documenting code
 
 So how do we kill two stones with one bird? By writing self-documenting code of course! Writing self-documenting code
@@ -122,10 +121,10 @@ self-documenting code:
 
 #### Use your words
 
-Modern IDEs and editors take the pain out writing long variables and functions with auto-completion and intellisense. In
-addition, screen real estate has grown. There's no longer a good excuse for single-letter variables or abbreviations.
+Modern IDEs and editors take the pain out of writing long variables and functions with auto-completion and intellisense.
+In addition, screen real estate has grown. There's no longer a good excuse for single-letter variables or abbreviations.
 When in doubt, type it out. I should have a general idea of what's contained in a variable or what a method is going to
-do just by reading its name, not looking at its documentation.
+do just by reading its name.
 
 #### Split long functions into multiple functions
 
