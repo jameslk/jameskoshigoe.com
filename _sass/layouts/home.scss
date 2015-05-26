@@ -1,3 +1,9 @@
+.home {
+	.image-wrap:after {
+		display: none;
+	}
+}
+
 #index {
 	@include container;
 	@include grid(12,10);
@@ -39,6 +45,21 @@
 		}
 		p+p {
 			text-indent: 0;
+		}
+	}
+
+	.more-posts {
+		margin-top: 2rem;
+
+		a {
+			font-size: 0.8em;
+			color: #999;
+		}
+
+		a:before {
+			display: inline-block;
+			content: "<";
+			padding-right: 0.5rem;
 		}
 	}
 }
