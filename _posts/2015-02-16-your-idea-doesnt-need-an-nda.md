@@ -69,6 +69,7 @@ endeavors? Think about this next time you fret about being Zuckerberg'd.
 * [*How to start a startup, Paul Graham*](http://www.paulgraham.com/start.html)
 * [*Y-Combinator FAQ*](https://www.ycombinator.com/faq/#q6)
 * [*TechStars FAQ (scroll half-way down the page)*](http://www.techstars.com/program/faqs/)
+* [*A brief history of LEGO*](https://www.youtube.com/watch?v=iFELcl75CiY)
 
 
 
