@@ -1,0 +1,3 @@
+- Programmers have a half-life of 2-5 years
+- Newly graduates are far more adapted for programming work
+- Programmers must turn into architects, managers, consultants or entrepreneurs

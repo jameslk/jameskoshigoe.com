@@ -1,0 +1,4 @@
+- Education will adapt to the student
+- Textbooks that evolve
+- Quizzes will be used to graduate students to other topics
+- Issues: Certification

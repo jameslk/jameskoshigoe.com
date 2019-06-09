@@ -1,0 +1,4 @@
+- Data will become a form of capital, replacing human capital
+- Data Exchanges are marketplaces for data sets
+- Data will be cleansed and sold through Data Exchanges
+- Regulations will be created to protect data handling, such as HIPAA

@@ -1,0 +1,4 @@
+- Intelligent weapons will be far superior to conventional weapons
+- A gun vs a swarm of drones
+- Guerrilla warfare will become less effective
+- Democracy?

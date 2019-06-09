@@ -1,0 +1,2 @@
+- Tech companies will become the conglomerates of the future
+- Data will become a form of capital, replacing human capital

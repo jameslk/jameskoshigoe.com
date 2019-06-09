@@ -1,0 +1,1 @@
+- Machines will be the new blue collar workers
