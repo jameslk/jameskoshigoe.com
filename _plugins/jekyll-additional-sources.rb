@@ -6,10 +6,11 @@ module Jekyll
 
       sources = site.config['additional_sources']
       sources.each do |source|
-        site.source = source
+        site.instance_variable_set(:@source, File.join(root_source, source))
         site.read_directories
-        site.source = root_source
       end
+
+      site.instance_variable_set(:@source, root_source)
     end
 
   end
